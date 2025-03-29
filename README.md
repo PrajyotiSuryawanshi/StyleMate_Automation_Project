@@ -1,6 +1,6 @@
 
 # Testing StyleMate A E-commerce Website Using Manual Testing, Cypress(POM).
-![]()
+![](Stylemate images/web.png)
 
 ## Introduction 
 The Tutorials StyleMate e-commerce platform offers a variety of features, including user registration, product browsing, cart management, and checkout. The testing focused on verifying the functionality, usability, and accessibility of these features across multiple devices and browsers.
